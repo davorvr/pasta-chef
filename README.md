@@ -1,4 +1,4 @@
-## PASTA Chef
+# PASTA Chef
 
 This is a repository which contains Python code to conduct an experiment with the PASTA platform, serving fresh *.pasta* files. These may be processed using [ratPASTA, R-based Awesome Toolbox for PASTA](https://github.com/ikodvanj/ratPASTA). For more information, see the preprint:
 
@@ -6,9 +6,7 @@ This is a repository which contains Python code to conduct an experiment with th
 *D Virag, J Homolak, I Kodvanj, A Babic Perhoc, A Knezovic, J Osmanovic Barilar, M Salkovic-Petrisic*  
 bioRxiv 2020.04.10.035766; doi: https://doi.org/10.1101/2020.04.10.035766
 
-----
-
-### See also
+## See also
 
 * **ratPASTA**, R-based Awesome Toolbox for PASTA:  
 [GitHub](https://github.com/ikodvanj/ratPASTA), [Vignette](https://ikodvanj.github.io/ratPASTAsite/articles/ratPASTA.html), [CRAN](https://cran.r-project.org/web/packages/ratPASTA/index.html)  
@@ -18,9 +16,7 @@ bioRxiv 2020.04.10.035766; doi: https://doi.org/10.1101/2020.04.10.035766
 *Jan Homolak, Davor Virag, Ivan Kodvanj, Ivica Matak, Ana Babic Perhoc, Ana Knezovic, Jelena Osmanovic Barilar, Melita Salkovic-Petrisic*  
 bioRxiv 2020.07.23.217737; doi: https://doi.org/10.1101/2020.07.23.217737
 
-----
-
-### Dependencies:
+## Dependencies:
 
     pyqtgraph
     numpy
